@@ -9,3 +9,6 @@ Mostra l'ús de Room i base de dades per fer una llista de tasques senzilla.
 
 ##webapp
 Mostra l'ús de WebView per encapsular una URL amb una aplicació/web i mostrar-la a l'aplicació
+
+##NavigationExample
+Mostral'ús de la navegació amb navController i navHost amb la llibreria Serialization i NavigationCompose
