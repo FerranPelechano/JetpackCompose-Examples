@@ -12,3 +12,6 @@ Mostra l'ús de WebView per encapsular una URL amb una aplicació/web i mostrar-
 
 ##NavigationExample
 Mostral'ús de la navegació amb navController i navHost amb la llibreria Serialization i NavigationCompose
+
+##navigate
+Mostra l'ús de la navegació amb Compose-Navigation i l'ús d'una Corrutine simple amb un delay
