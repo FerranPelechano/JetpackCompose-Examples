@@ -16,5 +16,5 @@ Mostral'ús de la navegació amb navController i navHost amb la llibreria Serial
 ## navigate
 Mostra l'ús de la navegació amb Compose-Navigation i l'ús d'una Corrutina simple amb un Delay
 
-##galeriaremota
+## galeriaremota
 Mostra l'ús de Coil (càrrega asíncrona d'imatges), Retrofit (crida l'API), LaunchedEffect (tasques asíncrones) per utilitzar dades d'una API pública de Pokemon (https://pokeapi.co/)
