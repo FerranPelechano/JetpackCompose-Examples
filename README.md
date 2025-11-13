@@ -18,3 +18,6 @@ Mostra l'ús de la navegació amb Compose-Navigation i l'ús d'una Corrutina sim
 
 ## galeriaremota
 Mostra l'ús de Coil (càrrega asíncrona d'imatges), Retrofit (crida l'API), LaunchedEffect (tasques asíncrones) per utilitzar dades d'una API pública de Pokemon (https://pokeapi.co/)
+
+## statusLog
+Mostra l'ús de Logcat i les fases del cicle de vida d'una activitat
