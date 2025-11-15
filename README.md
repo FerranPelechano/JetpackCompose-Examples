@@ -21,3 +21,7 @@ Mostra l'ús de Coil (càrrega asíncrona d'imatges), Retrofit (crida l'API), La
 
 ## statusLog
 Mostra l'ús de Logcat i les fases del cicle de vida d'una activitat
+
+## exampleNavigateListDetail
+Mostra ús d navegació i LazyColumn amb llista i detalls
+
